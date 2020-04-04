@@ -1,4 +1,4 @@
-### :open_file_folder: [root/](../)
+### :open_file_folder: [root/](https://github.com/daneburns/tutorial/)
 # :open_file_folder: Config
 This folder holds configuration files that manage user authentication, server setup and security.
  > :file_folder: [middleware/](./middleware)
