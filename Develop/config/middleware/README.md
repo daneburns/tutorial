@@ -1,4 +1,4 @@
-:file_folder: [config/](../config)
+:file_folder: [config/](../)
 # :open_file_folder: Middleware
 Our folder containing all of the middleware.
  ## isAuthenticated.js
