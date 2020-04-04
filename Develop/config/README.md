@@ -1,5 +1,7 @@
-# :open_file_folder: Config * :file_folder: [middleware/](./Develop/config/middleware)
-  This folder holds configuration files that manage user authentication, server setup and security.
+# :open_file_folder: Config
+This folder holds configuration files that manage user authentication, server setup and security.
+ > :file_folder: [middleware/](./middleware)
+  
 
   ## :page_facing_up: config.json
  Sets up 3 different server connections for the Sequelize package, a development, a test and a production database.
