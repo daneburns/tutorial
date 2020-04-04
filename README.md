@@ -53,14 +53,3 @@
 
 </span>
 
-* Config
-  This folder holds configuration files that manage the 
-** Middleware
- - isAuthenticated.js
-Middleware for restricting certain routes that require a user to be logged in. If they try to send a request to any part of the application that requires an authenticated user, it redirects them to the login page.
-
-- config.json 
-  Sets up 3 different server connections for the Sequelize package, a development, a test and a production database.
-
-- passport.js
-  
