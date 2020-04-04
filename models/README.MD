@@ -1,4 +1,5 @@
-# :open_file_folder: [Models](../)
+### :open_file_folder: [root/](https://github.com/daneburns/tutorial/)
+# :open_file_folder: Models
 This folder holds the models in the MVC paradigm. The models are responsible for setting up the data-structures we will be working with in our application.
 
   ## :page_facing_up: index.js
