@@ -5,34 +5,34 @@
 # CONFIGURATION
 
 * :file_folder: [config/](.\Develop\config)
-  * [middleware/](.\Develop\config\middleware)
-    * [isAuthenticated.js](.\Develop\config\middleware\isAuthenticated.js)
-  * [config.json](.\Develop\config\config.json)
-  * [passport.js](.\Develop\config\passport.js)
+  * :file_folder: [middleware/](.\Develop\config\middleware)
+    * :page_facing_up: [isAuthenticated.js](.\Develop\config\middleware\isAuthenticated.js)
+  * :page_facing_up: [config.json](.\Develop\config\config.json)
+  * :page_facing_up: [passport.js](.\Develop\config\passport.js)
 
 </span>
 
 <span style='color: teal;'>
 
 # MODELS
-* [models/](.\Develop\models)
-  * [index.js](.\Develop\models\index.js)
-  * [user.js](.\Develop\models\user.js)
+* :file_folder: [models/](.\Develop\models)
+  * :page_facing_up: [index.js](.\Develop\models\index.js)
+  * :page_facing_up: [user.js](.\Develop\models\user.js)
 
 <span style='color:salmon'>
 
 # VIEWS
 
-* [public/](.\Develop\public)
-  * [js/](.\Develop\public\js)
-    * [login.js](.\Develop\public\js\login.js)
-    * [members.js](.\Develop\public\js\members.js)
-    * [signup.js](.\Develop\public\js\signup.js)
-  * [stylesheets/](.\Develop\public\stylesheets)
-    * [style.css](.\Develop\public\stylesheets\style.css)
-  * [login.html](.\Develop\public\login.html)
-  * [members.html](.\Develop\public\members.html)
-  * [signup.html](.\Develop\public\signup.html)
+* :file_folder: [public/](.\Develop\public)
+  * :file_folder: [js/](.\Develop\public\js)
+    * :page_facing_up: [login.js](.\Develop\public\js\login.js)
+    * :page_facing_up: [members.js](.\Develop\public\js\members.js)
+    * :page_facing_up: [signup.js](.\Develop\public\js\signup.js)
+  * :file_folder: [stylesheets/](.\Develop\public\stylesheets)
+    * :page_facing_up: [style.css](.\Develop\public\stylesheets\style.css)
+  * :file_folder: [login.html](.\Develop\public\login.html)
+  * :file_folder: [members.html](.\Develop\public\members.html)
+  * :file_folder: [signup.html](.\Develop\public\signup.html)
 
 
 </span>
