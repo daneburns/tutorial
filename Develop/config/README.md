@@ -1,4 +1,5 @@
-# :file_folder: Config
+# :open_file_folder: Config
+  * :file_folder: [middleware/](./Develop/config/middleware)
   This folder holds configuration files that manage user authentication, server setup and security.
 
   ## :page_facing_up: config.json
