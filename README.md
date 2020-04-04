@@ -50,6 +50,7 @@
 
 
 ## :page_facing_up: server.js
+This is our server file. We pull in our dependencies (express, passport) and then establish a port contingent on our environment. If that doesn't work we just throw the app on port 8080. We setup our static file path and url encoding middleware from Express.js and then include sessions to keep track of our user's login status. We then pull in the routes and make sure we have a successful connection the the database. 
 
 
 
