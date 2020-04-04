@@ -38,12 +38,12 @@
 </span>
 <span style='color: lightblue;'>
 
-# ROUTING AND CONTROLLERS
-* [routes/](.\Develop\routes)
-  * [api-routes.js](.\Develop\routes\api-routes.js)
-  * [html-routes.js](.\Develop\routes\html-routes.js)
-* [package.json](.\Develop\package.json)
-* [server.js](.\Develop\server.js)
+# CONTROLLERS
+* :file_folder: [routes/](.\Develop\routes)
+  * :page_facing_up: [api-routes.js](.\Develop\routes\api-routes.js)
+  * :page_facing_up: [html-routes.js](.\Develop\routes\html-routes.js)
+* :page_facing_up: [package.json](.\Develop\package.json)
+* :page_facing_up: [server.js](.\Develop\server.js)
   
 </span>
 
